@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\2.ConstanteTiposDOperadores\2.ConstanteTiposDOperadores\bin\Debug\2.ConstanteTiposDOperadores.exe.config
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\2.ConstanteTiposDOperadores\2.ConstanteTiposDOperadores\bin\Debug\2.ConstanteTiposDOperadores.exe
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\2.ConstanteTiposDOperadores\2.ConstanteTiposDOperadores\bin\Debug\2.ConstanteTiposDOperadores.pdb
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\2.ConstanteTiposDOperadores\2.ConstanteTiposDOperadores\obj\Debug\2.ConstanteTiposDOperadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\2.ConstanteTiposDOperadores\2.ConstanteTiposDOperadores\obj\Debug\2.ConstanteTiposDOperadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\2.ConstanteTiposDOperadores\2.ConstanteTiposDOperadores\obj\Debug\2.ConstanteTiposDOperadores.exe
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\2.ConstanteTiposDOperadores\2.ConstanteTiposDOperadores\obj\Debug\2.ConstanteTiposDOperadores.pdb
