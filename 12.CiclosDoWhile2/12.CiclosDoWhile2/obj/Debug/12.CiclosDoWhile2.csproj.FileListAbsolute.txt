@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\12.CiclosDoWhile2\12.CiclosDoWhile2\bin\Debug\12.CiclosDoWhile2.exe.config
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\12.CiclosDoWhile2\12.CiclosDoWhile2\bin\Debug\12.CiclosDoWhile2.exe
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\12.CiclosDoWhile2\12.CiclosDoWhile2\bin\Debug\12.CiclosDoWhile2.pdb
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\12.CiclosDoWhile2\12.CiclosDoWhile2\obj\Debug\12.CiclosDoWhile2.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\12.CiclosDoWhile2\12.CiclosDoWhile2\obj\Debug\12.CiclosDoWhile2.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\12.CiclosDoWhile2\12.CiclosDoWhile2\obj\Debug\12.CiclosDoWhile2.exe
+C:\Users\B09S104est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\12.CiclosDoWhile2\12.CiclosDoWhile2\obj\Debug\12.CiclosDoWhile2.pdb
