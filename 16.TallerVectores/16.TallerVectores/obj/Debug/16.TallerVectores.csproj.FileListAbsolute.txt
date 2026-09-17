@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\16.TallerVectores\16.TallerVectores\bin\Debug\16.TallerVectores.exe.config
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\16.TallerVectores\16.TallerVectores\bin\Debug\16.TallerVectores.exe
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\16.TallerVectores\16.TallerVectores\bin\Debug\16.TallerVectores.pdb
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\16.TallerVectores\16.TallerVectores\obj\Debug\16.TallerVectores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\16.TallerVectores\16.TallerVectores\obj\Debug\16.TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\16.TallerVectores\16.TallerVectores\obj\Debug\16.TallerVectores.exe
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\16.TallerVectores\16.TallerVectores\obj\Debug\16.TallerVectores.pdb
