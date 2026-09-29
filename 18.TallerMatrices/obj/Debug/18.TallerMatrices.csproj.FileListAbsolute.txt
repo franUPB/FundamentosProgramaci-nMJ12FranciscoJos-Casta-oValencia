@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\18.TallerMatrices\bin\Debug\18.TallerMatrices.exe.config
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\18.TallerMatrices\bin\Debug\18.TallerMatrices.exe
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\18.TallerMatrices\bin\Debug\18.TallerMatrices.pdb
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\18.TallerMatrices\obj\Debug\18.TallerMatrices.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\18.TallerMatrices\obj\Debug\18.TallerMatrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\18.TallerMatrices\obj\Debug\18.TallerMatrices.exe
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\18.TallerMatrices\obj\Debug\18.TallerMatrices.pdb
