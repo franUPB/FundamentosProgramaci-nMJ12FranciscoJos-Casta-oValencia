@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\19.Ejercicio_Modulos\19.Ejercicio_Modulos\obj\Debug\19.Ejercicio_Modulos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\19.Ejercicio_Modulos\19.Ejercicio_Modulos\obj\Debug\19.Ejercicio_Modulos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\19.Ejercicio_Modulos\19.Ejercicio_Modulos\bin\Debug\19.Ejercicio_Modulos.exe.config
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\19.Ejercicio_Modulos\19.Ejercicio_Modulos\bin\Debug\19.Ejercicio_Modulos.exe
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\19.Ejercicio_Modulos\19.Ejercicio_Modulos\bin\Debug\19.Ejercicio_Modulos.pdb
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\19.Ejercicio_Modulos\19.Ejercicio_Modulos\obj\Debug\19.Ejercicio_Modulos.exe
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\19.Ejercicio_Modulos\19.Ejercicio_Modulos\obj\Debug\19.Ejercicio_Modulos.pdb
