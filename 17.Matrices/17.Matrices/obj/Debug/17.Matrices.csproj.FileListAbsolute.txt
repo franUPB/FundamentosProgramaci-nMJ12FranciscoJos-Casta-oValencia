@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\17.Matrices\17.Matrices\bin\Debug\17.Matrices.exe.config
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\17.Matrices\17.Matrices\bin\Debug\17.Matrices.exe
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\17.Matrices\17.Matrices\bin\Debug\17.Matrices.pdb
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\17.Matrices\17.Matrices\obj\Debug\17.Matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\17.Matrices\17.Matrices\obj\Debug\17.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\17.Matrices\17.Matrices\obj\Debug\17.Matrices.exe
+C:\Users\B09S104est\Documents\FranciscoJoséCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\17.Matrices\17.Matrices\obj\Debug\17.Matrices.pdb
