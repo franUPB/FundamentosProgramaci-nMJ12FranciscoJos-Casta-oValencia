@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\TrabajoFinal\bin\Debug\TrabajoFinal.exe.config
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\TrabajoFinal\bin\Debug\TrabajoFinal.exe
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\TrabajoFinal\bin\Debug\TrabajoFinal.pdb
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\TrabajoFinal\obj\Debug\TrabajoFinal.exe
+C:\Users\B09S304est\Documents\FranciscoCastaño\FundamentosProgramaci-nMJ12FranciscoJos-Casta-oValencia\TrabajoFinal\obj\Debug\TrabajoFinal.pdb
